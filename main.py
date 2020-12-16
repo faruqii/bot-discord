@@ -60,9 +60,6 @@ async def on_message(message):
   if msg.startswith('!bimskuy'):
     await message.channel.send('yakali ga kuyy !')
 
-  if msg.startswith('!pantek'):
-    await message.channel.send('eh jangan ngegas dong bangsat!')
-
   if msg.startswith('!mgodonf'):
     await message.channel.send('ampun om hacker!')
 
